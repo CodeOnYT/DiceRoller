@@ -22,7 +22,7 @@ This is a simple Android dice roller app built with Jetpack Compose. It allows y
 
 To run this project, you'll need Android Studio and an Android device or emulator.
 
-1. Clone the repository: `git clone https://github.com/your-username/dice-roller.git`
+1. Clone the repository: `git clone https://github.com/CodeOnYT/dice-roller.git`
 2. Open the project in Android Studio.
 3. Build and run the app on your device or emulator.
 
@@ -38,11 +38,11 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## License
 
-This project is licensed under the [Your License Name] License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [BSD 2-Clause License] License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-* Email: support@bluetext.in
+* Email: bluetextin@gmail.com
 
 ## Social Media
 
