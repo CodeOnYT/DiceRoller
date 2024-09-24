@@ -8,15 +8,15 @@ This is a simple Android dice roller app built with Jetpack Compose. It allows y
 * Clean and modern UI built with Jetpack Compose.
 * Uses `SoundPool` for efficient sound playback.
 * Includes AdMob banner ads for monetization.
-
+  
 ## Screenshots
-![Slide1](https://github.com/user-attachments/assets/2a545f4e-67f9-47ad-86a5-9c2a16ffe65a)
-![Slide5](https://github.com/user-attachments/assets/3f4bd329-4561-4ed6-a2b1-1b77fd291104)
-![Slide4](https://github.com/user-attachments/assets/d10a7a9d-d9f7-4109-ab0f-e820ebb15be4)
-![Slide3](https://github.com/user-attachments/assets/2484d4ed-97b3-4aa2-93e0-cde5d0100fd2)
-![Slide2](https://github.com/user-attachments/assets/310c0fc4-5c8f-4f57-b812-8c7b3d367e72)
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2a545f4e-67f9-47ad-86a5-9c2a16ffe65a" width="200" />
+  <img src="https://github.com/user-attachments/assets/3f4bd329-4561-4ed6-a2b1-1b77fd291104" width="200" /> 
+  <img src="https://github.com/user-attachments/assets/d10a7a9d-d9f7-4109-ab0f-e820ebb15be4" width="200" />
+  <img src="https://github.com/user-attachments/assets/2484d4ed-97b3-4aa2-93e0-cde5d0100fd2" width="200" /> 
+  <img src="https://github.com/user-attachments/assets/310c0fc4-5c8f-4f57-b812-8c7b3d367e72" width="200" /> 
+</p>
 
 ## Getting Started
 
