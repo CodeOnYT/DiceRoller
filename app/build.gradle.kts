@@ -10,7 +10,7 @@ android {
     defaultConfig {
         applicationId = "in.bluetext.diceroller"
         minSdk = 28
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 3
         versionName = "3.0.0"
 
@@ -62,10 +62,11 @@ android {
             excludes += "/META-INF/{AL2.0,LGPL2.1}"
         }
     }
+    buildToolsVersion = "35.0.0"
 }
 
 dependencies {
-    implementation("com.google.android.gms:play-services-ads:23.3.0")
+    implementation("com.google.android.gms:play-services-ads:23.4.0")
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
